@@ -19,7 +19,7 @@ $$I_C = \beta I_B$$
 ## NPN Transistors
 
 - The base-emitter junction behaves like a diode
-- A base current $I_B$ only flows when the voltage $V_BE$ is sufficiently positive, ie $ \ge 0.7V$.
+- A base current $I_B$ only flows when the voltage $V_BE$ is sufficiently positive, ie $\ge 0.7V$.
 - The small base current controls the larger collector current, flowing from collector to emitter
 - $I_C = \beta I_B$ - the current gain, showing how base current controlls collector current
 
