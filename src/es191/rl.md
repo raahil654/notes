@@ -28,7 +28,7 @@ where
 - When a circuit forms a single coil, the EMF induced is given by the rate of change of the flux
 - When a circuit contains many coils of wire, the resulting EMF is the sum of those produced by each loop
 - If a coil contains N loops, the induced voltage $V$ is given by the following equation, where $\Phi$ is the flux of the circuit.
-  $$ V = -N \frac{d\Phi}{dt}$$
+  $$V = -N \frac{d\Phi}{dt}$$
 
 - This property, where an EMF is induced by a changing flux, is known as inductance.
 
