@@ -13,7 +13,7 @@ Any linear network viewed through 2 terminals is replaced with an equivalent sin
 
 - The equivalent voltage is equal to the open circuit voltage between the two terminals ($V_{oc}$/$V_{th}$)
 - The equivalent resistance ($R_{th}$) is found by replacing all sources with their internal impedances and then calculating the impedance of the network, as seen by the two terminals.
-  - This can be done alternatively by calculating the short circuit current ($I_{sc}$/$I_N$) between the two terminals, and then using ohms law: $R_{th} = \frac{V_{th}}{I_{sc}}$.
+  - This can be done alternatively by calculating the short circuit current ($I_{sc}$/$I_{N}$) between the two terminals, and then using ohms law: $R_{th} = \frac{V_{th}}{I_{sc}}$.
 - The value of the voltage source in a Thevenin circuit is $V_{th}$
 - The value of the current source in a Norton circuit is $I_{N}$
 - The value of the resistor in either circuit is $R_{th}$
