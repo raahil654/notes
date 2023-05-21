@@ -98,37 +98,40 @@ $$V_1 + 7.5V_2 - 7.5V_3 = 0$$
 
 This gives a system of 3 equations in 3 unknowns which can be solved to determine the node voltages:
 
-$$
-\begin{pmatrix}
-4 & -3 & 0\\
+$$                            
+\begin{bmatrix} 
+4 & -3 & 0 \\
 -4 & 5 & 4 \\
 1 & 7.5 & -7.5
-\end{pmatrix}
-
-\,
-
+\end{bmatrix}
 \begin{pmatrix}
-V_1 \\ V_2 \\ V_3
-\end{pmatrix}
-
-=
-
+V_1 \\
+V_2 \\ 
+V_3
+\end{pmatrix} =
 \begin{pmatrix}
-36 \\ 0 \\ 0
+36 \\
+0 \\
+0
 \end{pmatrix}
 $$
 
+
+
 $$
 \begin{pmatrix}
-V_1 \\ V_2 \\ V_3
-\end{pmatrix}
-
-=
-
+V_1 \\ 
+V_2 \\ 
+V_3
+\end{pmatrix} =
 \begin{pmatrix}
-12.64 \\ 4.86 \\ 6.55
-\end{pmatrix}
+12.64 \\ 
+4.86 \\ 
+6.55
+\end{pmatrix} 
 $$
+
+
 
 $V_3$ is equal to $V_{oc}$, so $V_{th} = 6.55 \, V$
 
@@ -159,15 +162,9 @@ $$
 -4 & 5 & 14 \\
 1 & 7.5 & -7.5
 \end{pmatrix}
-
-\,
-
 \begin{pmatrix}
 V_1 \\ V_2 \\ V_3
-\end{pmatrix}
-
-=
-
+\end{pmatrix} =
 \begin{pmatrix}
 36 \\ 0 \\ 0
 \end{pmatrix}
@@ -175,13 +172,14 @@ $$
 
 $$
 \begin{pmatrix}
-V_1 \\ V_2 \\ V_3
-\end{pmatrix}
-
-=
-
+V_1 \\ 
+V_2 \\ 
+V_3
+\end{pmatrix}=
 \begin{pmatrix}
-9.82 \\ 1.1 \\ 2.42
+9.82 \\ 
+1.1 \\ 
+2.42
 \end{pmatrix}
 $$
 
