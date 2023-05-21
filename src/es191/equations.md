@@ -285,7 +285,7 @@ $$f_c = \frac{1}{2\pi{}R_2C}$$
 
 ### Gain (dB)
 Gain is measured in decibels
-$$\,20\log\frac{Vout}{Vin}$$
+$$20\log\frac{Vout}{Vin}$$
 
 At very low frequencies, the gain is constant (0dB)
 The capacitor has high reactance at low frequencies, and is open circuit at very low frequencies
